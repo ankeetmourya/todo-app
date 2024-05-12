@@ -1,0 +1,11 @@
+.todoInput{
+    padding: 10px;
+    width: 70%;
+    margin: 15px;
+    border: 1px solid grey;
+    border-radius: 8px;
+
+}
+.button{
+    width: 20%;
+}
